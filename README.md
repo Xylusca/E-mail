@@ -15,6 +15,7 @@ Para utilizar o script, siga as seguintes etapas:
 3 - Execute o comando para instalar a biblioteca PHPMailer;
 
     composer install
+    composer require phpmailer/phpmailer
 
 4 - Abra o arquivo dentro de 'app\communication' nome do arquivo e 'Email.php'.
 
