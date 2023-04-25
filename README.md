@@ -12,7 +12,9 @@ Para utilizar o script, siga as seguintes etapas:
 
 2 - No terminal, navegue até a pasta onde o repositório foi clonado.
 
-3 - Execute o comando 'composer install' para instalar a biblioteca PHPMailer
+3 - Execute o comando para instalar a biblioteca PHPMailer;
+
+    composer install
 
 4 - Abra o arquivo dentro de 'app\communication' nome do arquivo e 'Email.php'.
 
